@@ -1,1 +1,32 @@
-
+{
+  "HopesFormat": {
+    "Required": {
+      "Identifier": "Template",
+      "EntryID": "Template",
+      "Title": "Template",
+      "UUID": "Def"
+    },
+    "Panel-Assets": {
+      "Logo-16x": "Placeholder",
+      "Logo-32x": "Placeholder",
+      "Logo-64x": "Placeholder",
+      "Logo-128x": "Placeholder",
+      "Background-Header": "Placeholder",
+      "Background-Panel": "Placeholder"
+    },
+    "Panel-Small": {
+      "HoverTitle": "Def",
+      "HoverDescription": "Template"
+    },
+    "Panel-Large": {
+      "Title": "Template",
+      "Description": "Template",
+      "Body": "Placeholder"
+    }
+  },
+  "BetterGithub": {
+    "Manifest": {
+      "main": "T"
+    }
+  }
+}
